@@ -1,6 +1,5 @@
 # projeto-luss
-
-Para rodar o projeto:
+projeto feito utilizando python (streamlit e pandas). Abaixo, o necessário para testar:
 
 # instalar dependencias
 pip install streamlit pandas openpyxl
